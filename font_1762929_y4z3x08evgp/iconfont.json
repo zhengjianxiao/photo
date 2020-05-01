@@ -1,0 +1,37 @@
+{
+  "id": "1762929",
+  "name": "ceshi",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11348890",
+      "name": "back",
+      "font_class": "back",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "8106264",
+      "name": "shopping",
+      "font_class": "shopping",
+      "unicode": "e6a1",
+      "unicode_decimal": 59041
+    },
+    {
+      "icon_id": "8106269",
+      "name": "safety",
+      "font_class": "safety",
+      "unicode": "e6a0",
+      "unicode_decimal": 59040
+    },
+    {
+      "icon_id": "8106270",
+      "name": "phone",
+      "font_class": "phone",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    }
+  ]
+}
