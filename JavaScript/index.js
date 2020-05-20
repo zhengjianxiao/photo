@@ -1,14 +1,9 @@
 
-
-var btn = document.querySelector(".btn");
 var last = document.querySelector(".last");
 var wrap = document.querySelector(".wrap");
 var wrapid = document.querySelector("#wrap");
 var num = Math.ceil(Math.random()*20)-1;
-btn.onclick = function () {
-    last.style.height = 0;
-    wrap.style.height = "600px";
-};
+
 addphoto();
 sortphoto(num);
 var data = data;
