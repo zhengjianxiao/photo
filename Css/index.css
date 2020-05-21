@@ -90,6 +90,7 @@ html {
 .photo-wrap .movie {
   backface-visibility: hidden;
 }
+
 .photoFront .photo-wrap {
   transform: rotateY(0deg);
 }
